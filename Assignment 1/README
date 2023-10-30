@@ -1,1 +1,3 @@
 This is the first Assignment for the Bioinformatics Computational Challenges in the Master's of Computrational Biology
+
+For running the program, the Launcher.rb script should be called. It calls to Backbone.rb, wich will call to the others.
