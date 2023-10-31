@@ -1,3 +1,13 @@
 This is the first Assignment for the Bioinformatics Computational Challenges in the Master's of Computrational Biology
 
-For running the program, the Launcher.rb script should be called. It calls to Backbone.rb, wich will call to the others.
+For running the program, the main.rb script should be called. It rules the other scipts, like the One Ring.
+
+For the program to work, StockDatabaseDataFiles.zip files should be decompressed at the same directory where are the scripts.
+
+The suggested code is the following:
+ruby main.rb gene_information.tsv seed_stock_data.tsv cross_data.tsv new_stock_file.tsv 
+
+
+CREDITS:
+Some credits are added throughout the scripts.
+Most of the changes were done thanks to the use of Bing Chat GPT-4 and the research through several Stackoverflow threads.
