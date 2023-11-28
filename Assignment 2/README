@@ -5,6 +5,10 @@ The reccommended code to run the program from the Terminal is : ruby main.rb Ara
 
 For the program to work, ArabidopsisSubNetwork_GeneList.txt file should be at the same directory where are the scripts.
 
+CONCLUSSION:
+Throughout the report it can be seen that, out of 168 genes, most of them do not show a network behaviour, being the lesser of them the ones that form networks.
+That being said, it can be concluded that, out of those nearly 200 genes, few of them have annotated interactions among them.
+
 CREDITS:
 Some credits are added throughout the scripts.
 Most of the work was done thanks to the help of Bing Chat GPT-4 and the research through several Stackoverflow threads.
